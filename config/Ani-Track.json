@@ -1,0 +1,79 @@
+[
+  {
+    "Index": 1,
+    "Title": "Frieren: Beyond Journey's End",
+    "Category": "Anime",
+    "Rating": "98/100",
+    "Started": "Sep 2023",
+    "Finished": "Mar 2024",
+    "Status": "Finished",
+    "Progress": "28/28",
+    "Notes": "Masterpiece of pacing, reflection, and fantasy worldbuilding."
+  },
+  {
+    "Index": 2,
+    "Title": "Steins;Gate",
+    "Category": "Anime",
+    "Rating": "96/100",
+    "Started": "Apr 2021",
+    "Finished": "May 2021",
+    "Status": "Finished",
+    "Progress": "24/24",
+    "Notes": "Peak sci-fi thriller. El Psy Kongroo."
+  },
+  {
+    "Index": 3,
+    "Title": "Berserk",
+    "Category": "Manga",
+    "Rating": "99/100",
+    "Started": "2019",
+    "Finished": "2023",
+    "Status": "Finished",
+    "Progress": "Vol 41",
+    "Notes": "Kentaro Miura's unforgettable dark fantasy epic."
+  },
+  {
+    "Index": 4,
+    "Title": "One Piece",
+    "Category": "Anime",
+    "Rating": "93/100",
+    "Started": "2022",
+    "Finished": "Ongoing",
+    "Status": "In Watch",
+    "Progress": "Ep 1110",
+    "Notes": "The adventure never ends! Egghead arc is peak."
+  },
+  {
+    "Index": 5,
+    "Title": "Chainsaw Man",
+    "Category": "Manga",
+    "Rating": "90/100",
+    "Started": "2023",
+    "Finished": "Ongoing",
+    "Status": "In Read",
+    "Progress": "Ch 165",
+    "Notes": "Part 2 continues to be wild and unpredictable."
+  },
+  {
+    "Index": 6,
+    "Title": "Dungeon Meshi",
+    "Category": "Anime",
+    "Rating": "92/100",
+    "Started": "Jan 2024",
+    "Finished": "Ongoing",
+    "Status": "In Watch",
+    "Progress": "Ep 24/24",
+    "Notes": "Delicious cooking adventures combined with great lore."
+  },
+  {
+    "Index": 7,
+    "Title": "Solo Leveling",
+    "Category": "Novel",
+    "Rating": "88/100",
+    "Started": "2024",
+    "Finished": "Ongoing",
+    "Status": "Plan to Watch",
+    "Progress": "Ch 50",
+    "Notes": "Exciting power fantasy and dungeon raids."
+  }
+]
